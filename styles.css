@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/*  Styles générals   */
+
+
+body {
+    background-color: rgba(212, 228, 242, 1);
+    font-family: 'Roboto', sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+
+
+h2,
+li,
+label {
+    color: rgba(20, 182, 211, 1);
+}
+
+p, span { 
+    color: rgba(19, 199, 116, 1);
+}
+
+.logo {
+    font-weight: 700;
+    color: rgba(19, 199, 116, 1);
+}
+
+.box-a {
+    max-height: 600px;
+}
+
+
+#message-acceuil {
+    max-width: 600px;
+}
+
+
